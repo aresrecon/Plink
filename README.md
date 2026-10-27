@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/biwncedevins">
-    <img src="https://img.shields.io/badge/GitHub-biwncedevins-161b22?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-aresrecon-161b22?style=flat-square&logo=github"/>
   </a>
   <a href="https://discord.com/users/219449504229752832">
     <img src="https://img.shields.io/badge/Discord-dalocoz-161b22?style=flat-square&logo=discord&logoColor=white"/>
